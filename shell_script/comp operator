@@ -1,0 +1,11 @@
+-eq      if the value of two operands are equal or not; 
+
+-ne 	 if the value of two operands are equal or not; 
+
+-gt 	 if the value of left operand is greater than the value of right operand; 
+
+-lt 	 if the value of left operand is less than the value of right operand; 
+
+-ge 	 if the value of left operand is greater than or equal to the value of right operand;
+
+-le 	 if the value of left operand is less than or equal to the value of right operand; 
